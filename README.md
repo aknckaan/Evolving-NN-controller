@@ -1,0 +1,1 @@
+An evolutionary algorithm which optimisies the weights of a neural network to guide an agent to a light source and bring it  back in a noisy environment. The algorithm uses particle filters to predict the current location of the agent and this information is fed back to the network. 
